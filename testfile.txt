@@ -1,0 +1,13 @@
+This is a test file.
+
+Let us just say that we put here the usable git commans.
+
+git status
+git log
+git add <filename>
+git add .
+git commit -m <description>
+git remote add origin <path>
+git push -u origin master
+touch <new file>
+
